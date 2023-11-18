@@ -15,6 +15,7 @@
 
  ### Studying in this moment:
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Html](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=HTML5&logoColor=E34C26&labelColor=0D1117)&nbsp;
  
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
